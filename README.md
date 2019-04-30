@@ -10,3 +10,12 @@
 ## Iniciar git
 
 * Configuracion inicial git: https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez
+
+## Vue
+### Linters
+
+* ESlint rules essential Vue.js rules: https://eslint.vuejs.org/
+* aribnb: https://github.com/airbnb/javascript
+* standard: https://github.com/standard/standard
+* prettier: https://prettier.io
+
