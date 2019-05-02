@@ -11,6 +11,7 @@
 ## Comandos Básicos
 
 * reiniciar apache: sudo systemctl restart apache2
+* paquetes instalados: dpkg --get-selections
 
 
 ## Permisos y propiedad de carpetas
