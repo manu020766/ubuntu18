@@ -6,6 +6,16 @@
 * How to Install Visual Studio Code on Ubuntu 18.04: https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
 * Instalar Git:  sudo apt install git
 * Instalar Vue: npm install -g @vue/cli
+* Instalar LAMP: https://www.linode.com/docs/web-servers/lamp/install-lamp-stack-on-ubuntu-18-04/
+
+## Comandos Básicos
+
+* reiniciar apache: sudo systemctl restart apache2
+
+
+## Permisos y propiedad de carpetas
+
+* Permisos y Propiedad de carpetas/ficheros: http://www.lucid-lynx.com/?p=142
 
 ## Iniciar git
 
