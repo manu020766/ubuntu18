@@ -29,6 +29,18 @@ nvm uninstall v8.11.1 -> Desistala la version de node especificada
 mas info: https://medium.com/devschile/m%C3%BAltiples-versiones-de-node-con-nvm-63b2ac715c38
 ```
 
+## Errores con mySql
+
+* Problema: Intento importar un fichero muy grande.
+* Solucion modificar el fichero: php.ini
+
+```
+upload_max_filesize=128M
+post_max_size=128M
+max_execution_time=1000
+```
+
+
 ## Errores trabajando con Visual studio code
 
 ```
